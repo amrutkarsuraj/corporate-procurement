@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "946781960764",
+    "project_id": "corporate-procurement",
+    "storage_bucket": "corporate-procurement.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946781960764:android:f18514d159e525bdf4a139",
+        "android_client_info": {
+          "package_name": "com.example.corporate_procurement"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhvsc33H7eAqMDLXI2OwAyvzNPOPDsTAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
